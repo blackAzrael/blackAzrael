@@ -4,8 +4,8 @@
 
 
 -   :hammer_and_pick: C++/python, a little bit go/JavaScript
--   :pencil:  Linux / VS Code
--   :desc: 安全
+-   :pencil2:  Linux / VS Code
+-   :🛸: 安全
 ---
 
 -  : 兢兢业业搬砖🤒
