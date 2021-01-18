@@ -1,26 +1,26 @@
 ### Hey, blackAzrael 🤔
 
 
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=blackAzrael&show_icons=true&count_private=true">
 
 
-<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackAzrael&hide=html&layout=compact">
 
 -   :hammer_and_pick: C++/python, a little bit go/JavaScript
 -   :pencil2:  Linux / VS Code
 -   🛸 安全
--   🦝:https://blackazrael.github.io/
+-   🦝 https://blackazrael.github.io/
 ---
 
 
 
-- : 兢兢业业搬砖🤒
-- : 时常留下没有技术的泪水🤣
+- 兢兢业业搬砖🤒
+- 时常留下没有技术的泪水🤣
 
 
 
 ### Things I code with</h3>
 
-
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackAzrael&hide=html&layout=compact">
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
